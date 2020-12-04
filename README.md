@@ -12,7 +12,7 @@ const description = '👩🏻‍💻😻🌈🥦🍻⛷🎸🪕💖🚀📸🥳'
 
 💻 **Software Developer** (Ok... mostly JavaScript 🤪).
 
-🎊 Free-time **Alexa Skills developer**.
+🎊 Free-time **Alexa Skills Developer**.
 
 🎤 Beginner active **#tech speaker**.
 
