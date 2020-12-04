@@ -1,9 +1,9 @@
 # Hello world! 👋🏻🌍
 
 ```javascript
-const name = "Clara"
-const pronouns = "she/her"
-const description = "👩🏻‍💻😻🌈🥦🍻⛷🎸🪕💖🚀📸🥳"
+const name = 'Clara'
+const pronouns = 'she/her'
+const description = '👩🏻‍💻😻🌈🥦🍻⛷🎸🪕💖🚀📸🥳'
 ```
 
 ## What I do 🙌🏻
