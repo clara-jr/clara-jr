@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hello world! 👋🏻🌍
 
-<!--
-**clara-jr/clara-jr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```javascript
+const name = "Clara"
+const pronouns = "she/her"
+const description = "👩🏻‍💻😻🌈🥦🍻⛷🎸🪕💖🚀📸🥳"
+```
 
-Here are some ideas to get you started:
+## What I do 🙌🏻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **Teleco** Engineer & Ex-PhD **Researcher**.
+
+💻 **Software Developer** (Ok... mostly JavaScript 🤪).
+
+🎊 Free-time **Alexa Skills developer**.
+
+🎤 Beginner active **#tech speaker**.
+
+## Let's connect 🔌
+
+You can reach me at [<img src="https://logos-marcas.com/wp-content/uploads/2020/04/Twitter-Logo.png" alt="Clara's Twitter" height="12">@clear_is_me](https://twitter.com/clear_is_me). It'll be great to connect!
+
+- ⬇️ my CV from my webpage 👉🏻 [My webpage](https://clara-jr.github.io/about)
+
+- 👀 my blog 👉🏻 [My blog](https://clara-jr.github.io)
+
+- 👀 my porfolio 👉🏻 [My porfolio](https://clara-jr.github.io/projects)
