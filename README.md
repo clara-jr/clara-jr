@@ -16,6 +16,8 @@ const description = '👩🏻‍💻😻🌈🥦🍻⛷🎸🪕💖🚀📸🥳'
 
 🎤 Beginner active **#tech speaker**.
 
+["Easy-Peasy Alexa Skills" con Clara Jiménez Recio @ Women in Voice Spain <br><br> <img src="https://pbs.twimg.com/media/EoT5i8UXcAMkwHx.jpg" alt="'Easy-Peasy Alexa Skills' con Clara Jiménez Recio @ Women in Voice Spain" height="150">](https://www.youtube.com/watch?v=msr30-fZWNg)
+
 ## Let's connect 🔌
 
 You can reach me at [<img src="https://logos-marcas.com/wp-content/uploads/2020/04/Twitter-Logo.png" alt="Clara's Twitter" height="12">@clear_is_me](https://twitter.com/clear_is_me). It'll be great to connect!
