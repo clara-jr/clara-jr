@@ -26,4 +26,4 @@ You can reach me at [<img src="https://logos-marcas.com/wp-content/uploads/2020/
 
 - 👀 my blog 👉🏻 [My blog](https://clara-jr.github.io)
 
-- 👀 my porfolio 👉🏻 [My porfolio](https://clara-jr.github.io/projects)
+- 👀 my portfolio 👉🏻 [My portfolio](https://clara-jr.github.io/projects)
