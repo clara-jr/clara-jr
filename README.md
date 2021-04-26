@@ -18,7 +18,7 @@ const description = '👩🏻‍💻😻🌈🥦🍻⛷🎸🪕💖🚀📸🥳'
 
 ["Easy-Peasy Alexa Skills" con Clara Jiménez Recio @ Women in Voice Spain <br><br> <img src="https://pbs.twimg.com/media/EoT5i8UXcAMkwHx.jpg" alt="'Easy-Peasy Alexa Skills' con Clara Jiménez Recio @ Women in Voice Spain" height="150">](https://www.youtube.com/watch?v=msr30-fZWNg)
 
-["¿Podríamos crear un juego al estilo Among Us con Alexa?" CodeMotion Online Tech Conference <br><br> <img src="https://pbs.twimg.com/media/EzSJbsjUYBEpgoS?format=jpg" alt="'¿Podríamos crear un juego al estilo Among Us con Alexa?' con Clara Jiménez Recio @ Women in Voice Spain" height="150">](https://slides.com/clear_is_me/amongus-alexa-codemotion/fullscreen)
+["¿Podríamos crear un juego al estilo Among Us con Alexa?" CodeMotion Online Tech Conference <br><br> <img src="https://pbs.twimg.com/media/EzSJbsjUYBEpgoS?format=jpg" alt="'¿Podríamos crear un juego al estilo Among Us con Alexa?' con Clara Jiménez Recio @ CodeMotion Online Tech Conference" height="150">](https://slides.com/clear_is_me/amongus-alexa-codemotion/fullscreen)
 
 ## Let's connect 🔌
 
