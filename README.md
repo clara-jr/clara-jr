@@ -16,7 +16,7 @@ const description = '👩🏻‍💻😻🌈🥦🍻⛷🎸🪕💖🚀📸🥳'
 
 🎤 Beginner active **#tech speaker**.
 
-["¿Cómo crear tu primera Skill en Amazon Alexa? ¿Es posible conseguir empleo en el mundo de los asistentes de voz?" @ CodeMotion DevCast <br><br> <img src="https://pbs.twimg.com/media/E3CZf0KWQAEP_AB.jpg" alt="'¿Cómo crear tu primera Skill en Amazon Alexa? ¿Es posible conseguir empleo en el mundo de los asistentes de voz?' con Clara Jiménez Recio y Xavier Portilla Edo @ CodeMotion DevCast" height="150">](https://www.youtube.com/watch?v=pbp2u_vIMIY)
+["¿Cómo crear tu primera Skill en Amazon Alexa? ¿Es posible conseguir empleo en el mundo de los asistentes de voz?" @ CodeMotion DevCast <br><br> <img src="https://pbs.twimg.com/media/E3CZf0KWQAEP_AB.jpg" alt="'¿Cómo crear tu primera Skill en Amazon Alexa? ¿Es posible conseguir empleo en el mundo de los asistentes de voz?' con Clara Jiménez Recio y Xavier Portilla Edo @ CodeMotion DevCast" height="150">](https://youtu.be/cdOT-sbwUQc)
 
 ["¿Podríamos crear un juego al estilo Among Us con Alexa?" @ CodeMotion Online Tech Conference <br><br> <img src="https://pbs.twimg.com/media/EzSJbsjUYBEpgoS?format=jpg" alt="'¿Podríamos crear un juego al estilo Among Us con Alexa?' con Clara Jiménez Recio @ CodeMotion Online Tech Conference" height="150">](https://talks.codemotion.com/podramos-crear-un-juego-al-estilo-among-)
 
