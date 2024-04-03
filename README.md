@@ -24,7 +24,7 @@ const description = '👩🏻‍💻😻🌈🥦🍻⛷🎸🪕💖🚀📸🥳'
 
 ["¿Podríamos crear un juego al estilo Among Us con Alexa?" @ CodeMotion Online Tech Conference](https://talks.codemotion.com/podramos-crear-un-juego-al-estilo-among-)
 
-["Easy-Peasy Alexa Skills" con Clara Jiménez Recio @ Women in Voice Spain](https://www.youtube.com/watch?v=msr30-fZWNg)
+["Easy-Peasy Alexa Skills" @ Women in Voice Spain](https://www.youtube.com/watch?v=msr30-fZWNg)
 
 ## Let's connect 🔌
 
