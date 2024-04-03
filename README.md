@@ -14,7 +14,9 @@ const description = '👩🏻‍💻😻🌈🥦🍻⛷🎸🪕💖🚀📸🥳'
 
 🎊 Free-time **Alexa Skills Developer**.
 
-🎤 Beginner active **#tech speaker**.
+🎤 Free-time active **#tech speaker**.
+
+["Busca pienso para tu gato con MongoDB, vectores y LLMs" @ T3chFest](https://www.youtube.com/watch?v=iYtlRpmbXeE)
 
 ["Ejemplos de Alexa Skills de éxito, y más allá del Hackathon" @ Women in Voice Spain](https://www.youtube.com/watch?v=qxu-xjZoR5k)
 
@@ -32,4 +34,6 @@ You can reach me at [<img src="https://logos-marcas.com/wp-content/uploads/2020/
 
 - 👀 my blog 👉🏻 [My blog](https://clara-jr.github.io)
 
-- 👀 my portfolio 👉🏻 [My portfolio](https://clara-jr.github.io/projects)
+- 👀 my projects 👉🏻 [My projects](https://clara-jr.github.io/projects)
+  
+- 👀 my talks 👉🏻 [My talks](https://clara-jr.github.io/talks)
